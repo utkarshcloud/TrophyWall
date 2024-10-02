@@ -80,9 +80,7 @@ Over the years, I have been honored to receive several awards and recognitions f
 
 - [LinkedIn](https://www.linkedin.com/in/utkarsh-pandey)
 - [Twitter](https://twitter.com/UtkarshCloud)
-- [Tech Blog](https://yourblogwebsite.com)
 
 ---
 
-📫 **Reach me at**: utkarsh.pandey@cloudarchitect.com  
 🌱 **Currently exploring**: Advanced cloud-native AI/ML solutions  
